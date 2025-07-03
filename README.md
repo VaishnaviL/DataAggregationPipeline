@@ -1,4 +1,4 @@
-# Restaurant Data Warehouse Pipeline 
+# Restaurant Data Warehouse Pipeline (Snowflake)
 
 This project implements a data warehousing solution for a restaurant ecosystem. It integrates and processes data from various domains such as restaurant activity, orders, delivery-agent, delivery, and other data. The data follows a star schema architecture.
 
